@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mahmudaakterdisa
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning Typescript,Redux
-- 💞️ I’m looking to collaborate on FrontEnd web-projects
-- 📫 Want to reach me (dishamirza.h@gmail.com)
+- 👀 Passionate about web development and creating impactful user experiences
+- 💻 Proficient in JavaScript, TypeScript, React, REST APIs, PostgreSQL, GraphQL, and MongoDB
+- 🛠 Experienced in writing Unit Tests and E2E Tests to ensure high-quality software
+- 🤝 Open to collaborating on exciting Frontend and full-stack web projects
+- 📫 Let’s connect! dishamirza.h@gmail.com
 
 <!---
 mahmudaakterdisa/mahmudaakterdisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
