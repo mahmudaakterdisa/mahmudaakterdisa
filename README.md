@@ -1,3 +1,4 @@
+-👋 Hi, I’m Mahmuda Disa!
 - 👀 Passionate about web development and creating impactful user experiences
 - 💻 Proficient in JavaScript, TypeScript, React, REST APIs, PostgreSQL, GraphQL, and MongoDB
 - 🛠 Experienced in writing Unit Tests and E2E Tests to ensure high-quality software
